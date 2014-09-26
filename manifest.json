@@ -1,0 +1,62 @@
+{
+  "title": "Spelunky HD",
+
+  "groups": {
+    "Hazards": {
+      "size": { "width": 50, "height": 50 },
+      "categories": {
+        "Enemies": [
+          "Snake", "Cobra", "Bat", "Spider", "Spinner Spider", "Giant Spider", "Skeleton", "Scorpion",
+          "Caveman", "Shopkeeper", "Hired Hand", "Tiki Man", "Frog", "Fire Frog", "Giant Frog", "Mantrap", "Piranha", "Old Bitey", "Killer Bee", "Queen Bee", "Snail",
+          "Jiangshi", "Green Knight", "Black Knight", "Vampire", "Ghost",
+          "Bacterium", "Worm Egg", "Worm Baby",
+          "Yeti", "Yeti King", "Mammoth",
+          "Alien", "UFO", "Alien Tank", "Alien Lord", "Alien Queen",
+          "Hawk Man", "Croc Man", "Magma Man", "Scorpion Fly", "Mummy",
+          "Anubis", "Anubis 2", "Olmec",
+          "Vlad", "Imp", "Devil", "Succubus", "Horsehead", "Oxface", "Yama"
+        ],
+
+        "Traps": [
+          "Spikes", "Arrow Trap", "Powder box", "Boulder",
+          "Tiki trap",
+          "Acid", "Worm block", "Mine",
+          "Loose platform",
+          "Turret", "Forcefield",
+          "Crush trap", "Ceiling trap",
+          "Spike ball", "Lava"
+        ],
+
+        "Accidents": [
+          "Long Fall", "Pushable Block", "Hit by Item", "Self-sacrifice", "Bomb", "Teleporter",
+          "Abyss",
+          "Plasma Cannon", "Moving platform",
+          "Sceptre"
+        ],
+
+        "Success": [ "Old Age" ]
+      }
+    },
+
+    "Places": {
+      "size": { "width": 175, "height": 100 },
+      "categories": {
+        "Regular": [
+          "The Mines",  
+          "The Jungle",
+          "The Ice Caves",
+          "The Temple"
+        ],
+
+        "Special": [
+          "The Black Market",
+          "The Haunted Castle",
+          "The Worm",
+          "The Mothership",
+          "The City of Gold",
+          "Hell"
+        ]
+      }
+    }
+  }
+}
