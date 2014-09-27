@@ -3,6 +3,7 @@
 
   "groups": {
     "Hazards": {
+      "bets": 5,
       "size": { "width": 50, "height": 50 },
       "categories": {
         "Enemies": [
@@ -39,6 +40,7 @@
     },
 
     "Places": {
+      "bets": 1,
       "size": { "width": 175, "height": 100 },
       "categories": {
         "Regular": [
