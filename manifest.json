@@ -1,6 +1,6 @@
 {
   "title": "Spelunky HD",
-
+  "hostBetId": "Hazards_Success_Old Age",
   "groups": {
     "Hazards": {
       "bets": 5,
