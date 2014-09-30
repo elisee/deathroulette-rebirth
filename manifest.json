@@ -19,13 +19,13 @@
         ],
 
         "Traps": [
-          "Spikes", "Arrow Trap", "Powder box", "Boulder",
-          "Tiki trap",
-          "Acid", "Worm block", "Mine",
-          "Loose platform",
+          "Spikes", "Arrow Trap", "Powder Box", "Boulder",
+          "Tiki Trap",
+          "Acid", "Worm Block", "Mine",
+          "Loose Platform",
           "Turret", "Forcefield",
-          "Crush trap", "Ceiling trap",
-          "Spike ball", "Lava"
+          "Crush Trap", "Ceiling Trap",
+          "Spike Ball", "Lava"
         ],
 
         "Accidents": [
