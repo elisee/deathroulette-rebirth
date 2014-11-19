@@ -1,41 +1,55 @@
 {
-  "title": "Spelunky HD",
+  "title": "The Binding of Isaac: Rebirth",
   "hostBetId": "Hazards_Success_Old Age",
   "groups": {
     "Hazards": {
       "bets": 5,
       "size": { "width": 50, "height": 50 },
       "categories": {
-        "Enemies": [
-          "Snake", "Cobra", "Bat", "Spider", "Spinner Spider", "Giant Spider", "Skeleton", "Scorpion",
-          "Caveman", "Shopkeeper", "Hired Hand", "Tiki Man", "Frog", "Fire Frog", "Giant Frog", "Mantrap", "Piranha", "Old Bitey", "Killer Bee", "Queen Bee", "Snail",
-          "Jiangshi", "Green Knight", "Black Knight", "Vampire", "Ghost",
-          "Bacterium", "Worm Egg", "Worm Baby",
-          "Yeti", "Yeti King", "Mammoth",
-          "Alien", "UFO", "Alien Tank", "Alien Lord", "Alien Queen",
-          "Hawk Man", "Croc Man", "Magma Man", "Scorpion Fly", "Mummy",
-          "Anubis", "Anubis 2", "Olmec",
-          "Vlad", "Imp", "Devil", "Succubus", "Horsehead", "Oxface", "Yama"
+        "Monsters": [
+          "Pooter", "Fly", "Gaper", "Horf", "Gusher", "Hopper", "Mulligan", "Mulligoon", "Clotty",
+          "Clot", "I.Blob", "Spider", "Moter", "Sucker", "Embryo", "Squirt",
+          "Sack", "Mulliboom", "Spider", "Big Spider", "Trite", "Wall Creeper",
+          "Boom Fly", "Maggot", "Charger", "Host", "Hive", "Maw", "Spitty", "Knight", "Selfless Knight", "Leaper",
+          "Mr. Maw",
+          "Keeper", "Buttlicker", "Psychic Maw", "Fat Fly", "Gurgle", "Walking Boil", "Walking Gut", "Walking Sack",
+          "Baby", "Brain", "Goblin", "Guts", "Leech", "Kamikaze Leech", "Membrain", "Vis", "Mom's Hand",
+          "Angelic Baby", "Mama Guts", "Hanger", "Mask + Heart", "slide", "Swarmer", "Double Vis", "Gurgle",
+          "Dople", "Eye", "Fred", "Holy Leech", "Lump", "Para-Bite",
+          "Heart",
+          "Evil Twin", "Spit"
         ],
-
+        
+        "Bosses": [
+          "Monstro", "Gemini", "Steven",
+          "Gurdy Jr.", "Pin", "Widow", "Blighted Ovum", "The Haunt",
+          "Dingle", "Larry Jr.", "The Duke of Flies", "Famine", "Gurglings", "Fistula",
+          "Chub", "Gurdy", "Mega Maw", "Mega Fatty", "C.H.A.D.",
+          "The Hollow", "The Husk", "Peep", "Polycephalus", "The Carrion Queen", "The Wretched",
+          "Dark One", "Pestilence",
+          "The Cage", "Monstro II", "The Adversary", "Gish",
+          "The Bloat", "Daddy Long Legs", "Mask of Infamy", "Triachnid",
+          "The Gate", "Loki", "War",
+          "Mom",
+          "Mr. Fred", "Scolex", "Teratoma",
+          "Blastocyst",
+          "Mama Gurdy", "Death", "Conquest", "Lokii",
+          "Mom's Heart", "It Lives",
+          "Satan", "Isaac", "???", "The Lamb", "Mega Satan",
+          "The Fallen", "The Headless Horseman", "Krampus", "Fallen Angel",
+          "Envy", "Gluttony", "Wrath", "Pride", "Lust", "Greed", "Sloth", "Super Envy",
+          "Super Gluttony", "Super Wrath", "Super Pride", "Super Lust", "Super Greed", "Super Sloth", "Ultra Pride"
+        ],
         "Traps": [
-          "Spikes", "Arrow Trap", "Powder Box", "Boulder",
-          "Tiki Trap",
-          "Acid", "Worm Block", "Mine",
-          "Loose Platform",
-          "Turret", "Forcefield",
-          "Crush Trap", "Ceiling Trap",
-          "Spike Ball", "Lava"
+          "Spikes", "Retractable Spikes", "Moving Spikes", "Poky", "Trap Spikes", "Creep", "Fire", "Red Fire",
+          "Blue Fire", "Purple Fire", "Corny Poop", "Red Poop", "TNT", "Mushroom", "Womb Rock"
         ],
-
         "Accidents": [
-          "Long Fall", "Pushable Block", "Hit by Item", "Self-sacrifice", "Bomb", "Teleporter",
-          "Abyss",
-          "Plasma Cannon", "Moving Platform",
-          "Sceptre"
+          "Deal With the Devil", "Bomb", "Ipecac", "Bob's Brain"
         ],
-
-        "Success": [ "Old Age" ]
+        "Success": [ 
+          "Victory"
+        ]
       }
     },
 
@@ -44,19 +58,18 @@
       "size": { "width": 175, "height": 100 },
       "categories": {
         "Regular": [
-          "The Mines",  
-          "The Jungle",
-          "The Ice Caves",
-          "The Temple"
-        ],
-
-        "Special": [
-          "The Black Market",
-          "The Haunted Castle",
-          "The Worm",
-          "The Mothership",
-          "The City of Gold",
-          "Hell"
+          "The Basement",  
+          "Cellar",
+          "The Caves",
+          "Catacombs",
+          "The Depths",
+          "Necropolis",
+          "The Womb",
+          "Utero",
+          "Sheol",
+          "Cathedral",
+          "Chest",
+          "Dark Room"
         ]
       }
     }
