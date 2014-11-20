@@ -17,3 +17,4 @@ poky
 creep
 tnt
 curse room door
+hellfireplace

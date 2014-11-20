@@ -19,7 +19,6 @@
           "Heart",
           "Evil Twin", "Spit"
         ],
-        
         "Bosses": [
           "Monstro", "Gemini", "Steven",
           "Gurdy Jr.", "Pin", "Widow", "Blighted Ovum", "The Haunt",
@@ -52,26 +51,24 @@
         ]
       }
     },
-
-    "Places": {
+    "Floors": {
       "bets": 1,
-      "size": { "width": 175, "height": 100 },
-      "categories": {
-        "Regular": [
-          "The Basement",  
-          "Cellar",
-          "The Caves",
-          "Catacombs",
-          "The Depths",
-          "Necropolis",
-          "The Womb",
-          "Utero",
-          "Sheol",
-          "Cathedral",
-          "Chest",
-          "Dark Room"
-        ]
-      }
+      "size": { "width": 150, "height": 85 },
+      "all": [
+        "The Basement",  
+        "Cellar",
+        "The Caves",
+        "Catacombs",
+        "The Depths",
+        "Necropolis",
+        "The Womb",
+        "Utero",
+        "Sheol",
+        "Cathedral",
+        "Chest",
+        "Dark Room",
+        "Victory"
+      ]
     }
   }
 }
