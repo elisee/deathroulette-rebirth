@@ -1,6 +1,6 @@
 {
   "title": "The Binding of Isaac: Rebirth",
-  "hostBetId": "Hazards_Success_Old Age",
+  "hostBetId": "Hazards_Success_Victory",
   "groups": {
     "Hazards": {
       "bets": 10,
