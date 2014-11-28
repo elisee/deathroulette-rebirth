@@ -43,7 +43,7 @@
           "Fred", "Lump",
           "Leech", "Kamikaze Leech", "Holy Leech", "Giant Leech",
           "Host", "Red Host", "Walking Host", "Walking Red Host",
-          "Vis", "Double Vis", "Chubber"
+          "Vis", "Double Vis", "Chubber",
           "Eye", "Bloodshot Eye",
           "Dople", "Evil Twin",
           "Embryo",
@@ -70,7 +70,7 @@
           "Loki", "War", "Mom", "Mr. Fred", 
           "Scolex", "Teratoma", "Blastocyst", "Mama Gurdy", 
           "Death", "Conquest", "Lokii", "Mom's Heart", 
-          "It Lives", "Satan", "Isaac", "???", 
+          "It Lives", "Satan", "Isaac", "Blue Baby", 
           "The Lamb", "Mega Satan", "The Fallen", "The Headless Horseman", 
           "Krampus", "Fallen Angel"
         ],
@@ -81,7 +81,7 @@
           "Super Greed", "Super Sloth", "Ultra Pride"
         ],
         "Traps": [
-          "Spikes", "Retractable Spikes", "Moving Spikes", "Poky",
+          "Spikes", "Retractable Spikes", "Moving Spikes", "Pokey",
           "Trap Spikes", "Creep", "Fire", "Red Fire",
           "Blue Fire", "Purple Fire", "Corny Poop", "Red Poop", 
           "TNT", "Mushroom", "Womb Rock", "Grimace",
